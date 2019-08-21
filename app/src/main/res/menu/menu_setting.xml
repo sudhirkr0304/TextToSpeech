@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/text_size"
+        android:title="Item"
+        android:icon="@drawable/ic_text_fields_black_24dp"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/download_audio"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_file_download_black_24dp"
+        android:title="Item" />
+
+</menu>
